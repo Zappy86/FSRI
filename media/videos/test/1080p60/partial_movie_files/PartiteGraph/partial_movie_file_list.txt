@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/zaape/Desktop/FSRI/media/videos/test/1080p60/partial_movie_files/PartiteGraph/819936691_2431643558_223132457.mp4'
