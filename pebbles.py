@@ -120,11 +120,11 @@ class GraphPebbling:
 if __name__ == "__main__":
     from pprint import pprint
 
-    m = 8
-    n = 8
-    lower_bound = 13
-    upper_bound = 14
-    t = 5
+    m = 4
+    n = 4
+    lower_bound = 47
+    upper_bound = 48
+    t = 22
 
     graph_pebbling = GraphPebbling(m, n)
 
