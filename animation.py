@@ -39,9 +39,9 @@ class CompleteBipartiteGraph(Scene):
         # Grey circle
         pebble = Circle(
             radius=0.22,
-            color=GREY,
-            fill_color=GREY,
-            fill_opacity=1,
+            color=WHITE,
+            fill_color=WHITE,
+            fill_opacity=.5,
             stroke_width=2,
         )
 
